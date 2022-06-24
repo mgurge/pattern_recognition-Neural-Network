@@ -1,5 +1,5 @@
 # Neural Network NBA Player Project
-The goal of this project was to predict the points per game and games played based on NBA player age, height, and weight. The data consist of the NBA player data from 1996-2019.
+The goal of this project was to predict the points per game and games played based on NBA player age, height, and weight. The data consists of the NBA player data from 1996-2019.
 
 Player points, age, height, weight, and games played were compressed into clustered ranges to improve the accuracy of the model (Ex. 1 = 18.0 through 23.0 in years/ age of player)
 
